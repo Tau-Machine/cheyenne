@@ -1,0 +1,21 @@
+{
+  "author": "Jay B. <jay@taumachine.com.local>",
+  "bugs": "https://github.com/Tau-Machine/cheyenne/issues",
+  "description": "The programming language for legends",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.0.0"
+  },
+  "homepage": "https://github.com/Tau-Machine/cheyenne",
+  "keywords": [
+    "interpreter",
+    "language",
+    "programming",
+    "programming-language"
+  ],
+  "license": "Apache-2.0",
+  "name": "@tau-machine/cheyenne",
+  "private": true,
+  "repository": "github:Tau-Machine/cheyenne",
+  "version": "0.1.0"
+}
